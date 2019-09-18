@@ -1,3 +1,4 @@
 # cc-miniOS
-Minimal "OS" (more of a window manager) for ComputerCraft
-Updated to be more of an OS!
+Minimal "OS" for ComputerCraft
+
+Updated to be more of an OS than a window manager!
